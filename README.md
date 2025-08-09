@@ -12,10 +12,9 @@ A simple, powerful, and scalable chatting application built for real-time commun
 
 ## Technologies Used
 
-- **Frontend:** (Specify here, e.g., React, Vanilla JS, HTML/CSS)
-- **Backend:** (Specify here, e.g., Node.js, Python, Java)
-- **Networking:** Socket programming (TCP/UDP/WebSockets)
-- **Database:** (If applicable, e.g., MongoDB, MySQL)
+- **Frontend:**  JS, HTML/CSS
+- **Backend:**  Java 
+- **Networking:** WebSockets
 
 ## Getting Started
 
@@ -36,13 +35,13 @@ A simple, powerful, and scalable chatting application built for real-time commun
 2. **Install dependencies:**
    (Provide the commands, e.g., for Node.js:)
    ```bash
-   npm install
+   mvn clean compile
    ```
 
 3. **Start the application:**
    (Provide the commands, e.g., for Node.js:)
    ```bash
-   npm start
+   mvn start
    ```
 
 4. **Access the application:**
